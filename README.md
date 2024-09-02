@@ -1,0 +1,11 @@
+# expense_tracker
+
+
+## Getting Started
+
+- Clone the project
+- Install packages in pubspec.yaml
+- Create .env file and use the data in the .env_example and add the endpoint
+  - LIVE_BASE_URL = url
+  - STAGING_BASE_URL = url 
+- Run the app
