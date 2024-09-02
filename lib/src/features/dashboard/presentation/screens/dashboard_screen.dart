@@ -84,7 +84,7 @@ class _DashBoardScreenState extends State<DashBoardScreen> {
               ),
               child: const EmptyState(
                 title: '',
-                subtitle: 'All set, please your Income and Expenditure',
+                subtitle: 'All set, please add your Income and Expenditure',
               ),
             );
           }
